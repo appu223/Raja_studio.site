@@ -2,6 +2,28 @@
 
 Raja Studio Management is a full-stack photo studio operations platform. It brings studio administration, bookings, shoots, editing, galleries, finance, inventory, staff workspaces, and customer portal access into one application.
 
+## Demo Preview
+
+Run the client and server locally, then open the following pages:
+
+- Landing page: `http://localhost:5173/`
+- Login and customer registration: `http://localhost:5173/login`
+- API health check: `http://localhost:5000/api/health`
+
+### Landing Page Photography
+
+<p align="center">
+	<img src="https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=900&auto=format&fit=crop" alt="Wedding photography session" width="48%" />
+	<img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=900&auto=format&fit=crop" alt="Portrait photography session" width="48%" />
+</p>
+
+<p align="center">
+	<img src="https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=900&auto=format&fit=crop" alt="Wedding visual story" width="48%" />
+	<img src="https://images.unsplash.com/photo-1609150498870-8b7008262604?q=80&w=900&auto=format&fit=crop" alt="Fashion photography campaign" width="48%" />
+</p>
+
+The image sources above are the same visual assets used by the landing page portfolio.
+
 ## Features
 
 - Admin dashboard for studio operations and administration
